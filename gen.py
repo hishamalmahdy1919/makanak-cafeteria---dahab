@@ -102,14 +102,7 @@ LOCAL_SHORTS = [
     "short-4.mp4",
     "short-5.mp4",
     "short-6.mp4",
-    "short-7.mp4",
-    "short-8.mp4",
-    "short-9.mp4",
-    "short-10.mp4",
-    "short-11.mp4",
-    "short-12.mp4",
-    "short-13.mp4",
-    "short-14.mp4"
+
 ]
 
 SAFARI_IMAGES = ["safari-1.jpg", "safari-2.jpg", "safari-3.jpg"]
